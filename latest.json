@@ -1,0 +1,31 @@
+{
+    "major_updates": [
+      {
+        "title": "Comprehensive Support for DeepSeek R1",
+        "description": "Now fully integrated in both the Community and Cloud versions (.ai)."
+      },
+      {
+        "title": "Real-Time Chain of Thought Display",
+        "description": "Transparently presents the AI's reasoning process, making the resolution of complex issues clear and visible."
+      },
+      {
+        "title": "Deep Thinking Experience",
+        "description": "Utilizing Chain of Thought technology, it provides more insightful AI conversations."
+      },
+      {
+        "title": "Intuitive Problem Analysis",
+        "description": "Makes the analysis of complex issues clear and easy to understand."
+      }
+    ],
+    "how_to_use": {
+      "steps": [
+        "Upgrade to cyb3 v1.49.12 or visit .ai.",
+        "Select the DeepSeek R1 model in the settings.",
+        "Experience a whole new level of intelligent conversation!"
+      ]
+    },
+    "feedback_and_support": {
+      "message": "If you encounter any issues while using the application or have suggestions for new features, feel free to engage with us through GitHub Discussions. Let's work together to create a better cyb3!"
+    }
+  }
+  
